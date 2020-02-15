@@ -1,4 +1,4 @@
-package this
+package this // import "github.com/garsue/this"
 
 import (
 	"fmt"
